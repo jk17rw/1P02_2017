@@ -1,0 +1,15 @@
+#wrapper{background-color:green;
+height:700px;}
+
+#content{background-color:blue;
+width:200px;
+height:200px;
+margin-left:300px;
+top:50px;
+float:left;}
+
+#content2{background-color:red;
+width:200px;
+height:200px;
+float:right;
+margin-right:300px;}
