@@ -1,0 +1,27 @@
+
+#header{color:red;
+  position:fixed;
+text-transform:uppercase;}
+
+.purpletext{color:purple;
+font-style:italic;
+font-size:20px;
+text-transform:uppercase;}
+
+.top{background-color:gray;}
+.parent{position:relative;}
+.common{color:white;}
+.first{background-color:red;
+padding-top:20px;}
+.second{background-color:blue;
+position:absolute;}
+.third{background-color:green;}
+.h1,.h2,.h3{background-color:black;
+color:yellow;
+}
+.h2{padding-top:16px;}
+
+.marked{background-color:green;
+color:white;}
+.marked p{color:orange;
+text-align:center;}
