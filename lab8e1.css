@@ -1,0 +1,21 @@
+body{background-color:blue;}
+
+.box1{
+  border-style:solid;
+  Margin:100px;
+  height:400px;
+}
+
+.text{
+  border:3px dotted white;
+}
+
+.smaller{
+  height:200px;
+  width:200px;
+  border: dashed 1px white;
+  padding:10px;
+}
+.text p{
+  margin: 1px white;
+}
